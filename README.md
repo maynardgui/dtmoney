@@ -1,1 +1,1 @@
-Projeto da RcoketSeat em React, Typescript
+Projeto da RocketSeat em React, Typescript
